@@ -1,6 +1,5 @@
 package tY.practise;
 
-import java.util.TreeSet;
 
 public class SortTheZerosinArray {
 	
